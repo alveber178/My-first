@@ -6,7 +6,7 @@ import pandas as pd
 
 # Read the Excel file
 
-df_excel = pd.read_excel('операторы_бухгалтеры.xlt')
+df_excel = pd.read_excel('1.xlt')
 
 operlist = []
 buhlist = []
